@@ -1,0 +1,26 @@
+{
+  "name": "bts",
+  "version": "1.0.0",
+  "description": "Backend Developer Coding Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ages96/RestAPIBts.git"
+  },
+  "keywords": [
+    "restapi",
+    "api"
+  ],
+  "author": "Ages",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ages96/RestAPIBts/issues"
+  },
+  "homepage": "https://github.com/ages96/RestAPIBts#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
